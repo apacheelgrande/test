@@ -3,13 +3,8 @@
 	"header": 0,
 	"separator": ","
 	"skip": 0,
-	"meta": [
-		{ "type": "id", "index": 0, "name": "Intersections","HTN","DBTES","CAD","ALKABUSE","RHEFEV","METSYN"},
-		
-	],
-	"sets": [
-		{ "format": "binary", "start": 1, "end": 6 }
-	],
+	"meta": [{ "type": "id", "index": 0, "name": "Intersections","HTN","DBTES","CAD","ALKABUSE","RHEFEV","METSYN"}],
+	"sets": [{ "format": "binary", "start": 1, "end": 6 }],
     "author": "A.V",
     "description": "The end of all knowledge should be service to others"
    
