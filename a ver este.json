@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/apacheelgrande/test/main/test-dec-bin.csv",
-	"name": "test-dec-bin",
+	"name": "test-dec-bin.csv",
 	"header": 0,
 	"separator": ","
 	"meta": [{ "type": "id", "index": 0, "name": "Intersections"},
