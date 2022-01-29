@@ -1,4 +1,4 @@
-"file": "https://raw.githubusercontent.com/apacheelgrande/test/main/test-dec-bin.txt",
+{"file": "https://raw.githubusercontent.com/apacheelgrande/test/main/test-dec-bin.txt",
 	"name": "test-dec-bin.txt",
 	"header": 0,
 	"separator": ","
@@ -16,5 +16,5 @@
 		{ "format": "binary", "start": 1, "end": 6 }
 	],
     "author": "A.V",
-    "description": "The end of all knowledge should be service to others"
+    "description": "The end of all knowledge should be service to others"}
    
