@@ -3,18 +3,14 @@
 	"name": "test-dec-bin.txt",
 	"header": 0,
 	"separator": ","
-	"meta": [
-		{ "type": "id", "index": 0, "name": "Intersections"},
+	"meta": [{ "type": "id", "index": 0, "name": "Intersections"},
 		{ "type": "id", "index": 1, "name": "HTN"},
 		{ "type": "id", "index": 2, "name": "DBTES"},
 		{ "type": "id", "index": 3, "name": "CAD"},
                  { "type": "id", "index": 4, "name": "ALKABUSE"},
                  { "type": "id", "index": 5, "name": "RHEFEV"},
-                 { "type": "id", "index": 6, "name": "METSYN"},
-	],
-	"sets": [
-		{ "format": "binary", "start": 1, "end": 6 }
-	],
+                 { "type": "id", "index": 6, "name": "METSYN"}],
+	"sets": [{ "format": "binary", "start": 1, "end": 6 }],
     "author": "A.V",
     "description": "The end of all knowledge should be service to others"
 }
