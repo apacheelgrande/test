@@ -1,7 +1,7 @@
 "file": "https://raw.githubusercontent.com/apacheelgrande/test/main/test-dec-bin.csv",
 	"name": "test-dec-bin",
 	"header": 0,
-	"separator":  ;","
+	"separator": ","
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Intersections","HTN","DBTES","CAD","ALKABUSE","RHEFEV","METSYN"},
