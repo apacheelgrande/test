@@ -10,7 +10,7 @@
                  { "type": "id", "index": 4, "name": "ALKABUSE"},
                  { "type": "id", "index": 5, "name": "RHEFEV"},
                  { "type": "id", "index": 6, "name": "METSYN"}],
-	"sets": [{ "format": "binary", "start": 0, "end": 6 }],
+	"sets": [{ "format": "binary", "start": 1, "end": 6 }],
     "author": "A.V",
     "description": "The end of all knowledge should be service to others"
 }
