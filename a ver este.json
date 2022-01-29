@@ -3,7 +3,6 @@
 	"name": "test-dec-bin.txt",
 	"header": 0,
 	"separator": ","
-	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Intersections"},
 		{ "type": "id", "index": 1, "name": "HTN"},
